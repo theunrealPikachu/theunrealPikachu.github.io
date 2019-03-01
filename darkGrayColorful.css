@@ -34,7 +34,7 @@ A700 #2962FF
     --color-A400: #9d0b28;          /* Blue A400 */
     --color-purple: #105410;		    /* Blue A700 */
     
-    --color-dark-blue: #434444;
+    --color-dark-blue: #282828;
     --color-dark-red: #181818;
 
     --movie-overlay: radial-gradient(circle at 20% 50%, rgba(0, 0, 0, 1) 5.46%, rgba(21, 101, 192, 0.46));  /* Blue 800 */
