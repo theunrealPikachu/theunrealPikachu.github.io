@@ -329,14 +329,15 @@ a {
     background-color:  black !important;
 }
 
-.panel-body, .panel-footer{
+{
     background-color:  black !important;
 }
 
-.badge-user{
+.panel-body,
+.panel-footer,
+.badge-user,
+.clearfix,
+.post-signature,
+.some-padding{
   background-color:  black !important;
-}
-
-.clearfix{
-    background-color:  black !important;
 }
