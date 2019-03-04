@@ -344,7 +344,7 @@ a {
 }
 
 .btn-danger:hover{
-    background-color: #00b3db;
-    border-color: #285e8e;
+    background-color: red;
+    border-color: red;
     
 }
