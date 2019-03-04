@@ -342,3 +342,9 @@ a {
 .some-padding{
   background-color: var(--color-dark-blue) !important;
 }
+
+.btn-danger:hover{
+    background-color: #00b3db;
+    border-color: #285e8e;
+    
+}
