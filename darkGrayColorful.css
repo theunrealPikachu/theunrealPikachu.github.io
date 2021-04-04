@@ -239,10 +239,6 @@ select, select option {
     background-color: var(--color-magenta) !important;
 }
 
-.alert {
-    color: #424242;
-}
-
 .alert > h2,
 .alert > h2 > strong,
 .panel > .panel-heading > h2,
